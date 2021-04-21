@@ -1,0 +1,11 @@
+[package]
+name = "rust_lisp"
+version = "1.0.0"
+authors = ["psmietana"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name = "rust_lisp"
+path = "bin/main.rs"
